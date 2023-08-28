@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rentVIP/static/css/main.a93bf734.css",
+    "main.js": "/rentVIP/static/js/main.500f3abf.js",
+    "static/media/MainBannerCarRental.png": "/rentVIP/static/media/MainBannerCarRental.ce6ea0ccda4520d4ce0a.png",
+    "static/media/MainBannerProperty.png": "/rentVIP/static/media/MainBannerProperty.372b4c0d5133aa5be4fc.png",
+    "static/media/MainBannerTours.png": "/rentVIP/static/media/MainBannerTours.218714811f3cfce5e0b4.png",
+    "index.html": "/rentVIP/index.html",
+    "main.a93bf734.css.map": "/rentVIP/static/css/main.a93bf734.css.map",
+    "main.500f3abf.js.map": "/rentVIP/static/js/main.500f3abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93bf734.css",
+    "static/js/main.500f3abf.js"
+  ]
+}
