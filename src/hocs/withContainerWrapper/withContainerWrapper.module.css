@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+  width: 100%;
+}
+.wrapper {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1552px;
+  width: 90%;
+}

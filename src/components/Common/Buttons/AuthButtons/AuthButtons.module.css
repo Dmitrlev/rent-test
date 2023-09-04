@@ -1,0 +1,16 @@
+.container {
+  transition: 0.3s;
+  transform: scale(1);
+  transform-origin: center;
+}
+.container:hover {
+  transform: scale(0.9);
+}
+.wrapper {
+  padding: 13px 20px 10px;
+  background: white;
+}
+.wrapper p {
+  font-weight: 500;
+  font-size: 110%;
+}

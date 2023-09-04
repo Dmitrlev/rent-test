@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+  background: var(--background-footer);
+  color: var(--footer-color);
+}
+.container a {
+  color: var(--footer-color);
+}
+.wrapper {
+  position: relative;
+  margin: 0 auto;
+  max-width: var(--window-max-width);
+  width: var(--width-width);
+  height: 100%;
+}
