@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/rentVIP/static/css/main.44a01650.css",
-    "main.js": "/rentVIP/static/js/main.ade3d72a.js",
+    "main.css": "/rentVIP/static/css/main.bb83a7c5.css",
+    "main.js": "/rentVIP/static/js/main.40f272dc.js",
     "static/media/MainBannerCarRental.png": "/rentVIP/static/media/MainBannerCarRental.ce6ea0ccda4520d4ce0a.png",
     "static/media/MainBannerProperty.png": "/rentVIP/static/media/MainBannerProperty.372b4c0d5133aa5be4fc.png",
     "static/media/MainBannerTours.png": "/rentVIP/static/media/MainBannerTours.218714811f3cfce5e0b4.png",
+    "static/media/four.png": "/rentVIP/static/media/four.a7714605b64d6d6e1f9f.png",
+    "static/media/one.png": "/rentVIP/static/media/one.2a8f7a3a5b05e4e4800b.png",
+    "static/media/two.png": "/rentVIP/static/media/two.a413b6c7b98d7134d490.png",
+    "static/media/three.png": "/rentVIP/static/media/three.d389671e8c82b0f61767.png",
+    "static/media/right.png": "/rentVIP/static/media/right.af3ea8eb15d9f34278b3.png",
+    "static/media/left.png": "/rentVIP/static/media/left.af6add0bb16fcb0995c5.png",
     "index.html": "/rentVIP/index.html",
-    "main.44a01650.css.map": "/rentVIP/static/css/main.44a01650.css.map",
-    "main.ade3d72a.js.map": "/rentVIP/static/js/main.ade3d72a.js.map"
+    "main.bb83a7c5.css.map": "/rentVIP/static/css/main.bb83a7c5.css.map",
+    "main.40f272dc.js.map": "/rentVIP/static/js/main.40f272dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.44a01650.css",
-    "static/js/main.ade3d72a.js"
+    "static/css/main.bb83a7c5.css",
+    "static/js/main.40f272dc.js"
   ]
 }
