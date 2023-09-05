@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/rentVIP/static/css/main.bb83a7c5.css",
-    "main.js": "/rentVIP/static/js/main.40f272dc.js",
-    "static/media/MainBannerCarRental.png": "/rentVIP/static/media/MainBannerCarRental.ce6ea0ccda4520d4ce0a.png",
-    "static/media/MainBannerProperty.png": "/rentVIP/static/media/MainBannerProperty.372b4c0d5133aa5be4fc.png",
-    "static/media/MainBannerTours.png": "/rentVIP/static/media/MainBannerTours.218714811f3cfce5e0b4.png",
-    "static/media/four.png": "/rentVIP/static/media/four.a7714605b64d6d6e1f9f.png",
-    "static/media/one.png": "/rentVIP/static/media/one.2a8f7a3a5b05e4e4800b.png",
-    "static/media/two.png": "/rentVIP/static/media/two.a413b6c7b98d7134d490.png",
-    "static/media/three.png": "/rentVIP/static/media/three.d389671e8c82b0f61767.png",
-    "static/media/right.png": "/rentVIP/static/media/right.af3ea8eb15d9f34278b3.png",
-    "static/media/left.png": "/rentVIP/static/media/left.af6add0bb16fcb0995c5.png",
-    "index.html": "/rentVIP/index.html",
-    "main.bb83a7c5.css.map": "/rentVIP/static/css/main.bb83a7c5.css.map",
-    "main.40f272dc.js.map": "/rentVIP/static/js/main.40f272dc.js.map"
+    "main.css": "/rent-test-initial/static/css/main.82141134.css",
+    "main.js": "/rent-test-initial/static/js/main.0cda5f82.js",
+    "static/media/MainBannerCarRental.png": "/rent-test-initial/static/media/MainBannerCarRental.ce6ea0ccda4520d4ce0a.png",
+    "static/media/MainBannerProperty.png": "/rent-test-initial/static/media/MainBannerProperty.372b4c0d5133aa5be4fc.png",
+    "static/media/MainBannerTours.png": "/rent-test-initial/static/media/MainBannerTours.218714811f3cfce5e0b4.png",
+    "static/media/four.png": "/rent-test-initial/static/media/four.a7714605b64d6d6e1f9f.png",
+    "static/media/one.png": "/rent-test-initial/static/media/one.2a8f7a3a5b05e4e4800b.png",
+    "static/media/two.png": "/rent-test-initial/static/media/two.a413b6c7b98d7134d490.png",
+    "static/media/three.png": "/rent-test-initial/static/media/three.d389671e8c82b0f61767.png",
+    "static/media/left.png": "/rent-test-initial/static/media/left.0f06ff9fa9c97fd7b9ed.png",
+    "static/media/touring.png": "/rent-test-initial/static/media/touring.3ba9e83efa1056d45ffb.png",
+    "static/media/rentalProperty.png": "/rent-test-initial/static/media/rentalProperty.03e9a46c9f24ee1eea9b.png",
+    "static/media/right.png": "/rent-test-initial/static/media/right.d67bc20e054396e6c63f.png",
+    "static/media/carRental.png": "/rent-test-initial/static/media/carRental.0424f8fe040d5b19d825.png",
+    "static/media/googleBTN.png": "/rent-test-initial/static/media/googleBTN.03f08b36772a59e2c1e5.png",
+    "static/media/appleBTN.png": "/rent-test-initial/static/media/appleBTN.84302b4f71934d4e9df7.png",
+    "index.html": "/rent-test-initial/index.html",
+    "main.82141134.css.map": "/rent-test-initial/static/css/main.82141134.css.map",
+    "main.0cda5f82.js.map": "/rent-test-initial/static/js/main.0cda5f82.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb83a7c5.css",
-    "static/js/main.40f272dc.js"
+    "static/css/main.82141134.css",
+    "static/js/main.0cda5f82.js"
   ]
 }
